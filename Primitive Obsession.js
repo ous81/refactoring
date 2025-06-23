@@ -15,4 +15,4 @@ class Point {
   }
   
   // Usage:
-  points.push(new Point(coordin1, coordin2));
+  points.push(new Point(coordin1,  coordin2));
